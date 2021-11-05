@@ -5,7 +5,7 @@ import Footer from "components/footer";
 import NavBar from "components/NavBar";
 
 
-function Dashboard(){
+function Dashboard() {
     return (
         <>
             <NavBar />
